@@ -1,4 +1,5 @@
 # Goal To install multiple versions of Go and do linting for multiple versions
+# new project
 name: Go Linter
 
 on: 
